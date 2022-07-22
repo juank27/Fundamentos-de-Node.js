@@ -1,7 +1,7 @@
-console.log('hola mundo primera instrucción');
+console.log('hola');
 
 setInterval(() => {
-	console.log('hola mundo');
+	console.log('hola');
 }, 1000);
 console.log('Segunda instrucción');
 //orden de salida por consola

@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon Conceptos/monohilo.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
